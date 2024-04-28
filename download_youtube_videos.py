@@ -1,3 +1,4 @@
+# import the YouTube and 'os' module class, which provides a portable way of interacting with the operating system. We'll use it to get the current working directory and manipulate file paths from the pytube library. 
 from pytube import YouTube
 import os
 

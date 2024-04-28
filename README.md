@@ -25,4 +25,4 @@ How to run the script:
 ```
 python download_youtube_music.py
 ```
-- after you launch the script you need to add Youube video URL (https://music.youtube.com/...) and the path to save the music file
+- after you launch the script you need to add Yoube video URL (https://music.youtube.com/...) and the path to save the music file
